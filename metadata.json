@@ -1,0 +1,7 @@
+{
+  "name": "Xiao A - Voice Assistant",
+  "description": "A real-time conversational voice assistant powered by Gemini Live API. Chat with Xiao A in multiple languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
